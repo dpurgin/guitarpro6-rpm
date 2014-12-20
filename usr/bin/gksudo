@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gksu-polkit ${@: -2}
