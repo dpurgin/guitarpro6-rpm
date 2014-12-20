@@ -3,7 +3,7 @@ guitarpro6-rpm
 
 This repository contains a spec file for building an RPM package of the Linux version of Guitar Pro 6 (http://www.guitar-pro.com) for Fedora. The original package that can be downloaded from the official web site is a Debian package and is not the most comfortable thing to install in RPM-based distros.
 
-*This repository does not contain any of actual Guitar Pro 6 files. Please use it only if you own a license copy of Guitar Pro 6*.
+**This repository does not contain any of actual Guitar Pro 6 files. Please use it only if you own a licensed copy of Guitar Pro 6**.
 
 Changes against the original deb (or as if you were to install it with alien):
  * File system layout changed to follow Fedora guidelines;
