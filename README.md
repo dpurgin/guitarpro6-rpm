@@ -9,9 +9,9 @@ Changes against the original deb (or as if you were to install it with alien):
  * File system layout changed to follow Fedora guidelines
  * gksudo emulation via gksu-polkit (needed for GPUpdater).
 
-##Building package
+## Building package
 
-###Fedora 21, gp6-full-linux-r11621.deb
+### Fedora 21, gp6-full-linux-r11621.deb
 
 If you did not configure your system to build RPM packages [follow the guide](https://fedoraproject.org/wiki/How_to_create_an_RPM_package#Preparing_your_system).
  * Put the downloaded `gp6-full-linux-r11621.deb` into this repo
